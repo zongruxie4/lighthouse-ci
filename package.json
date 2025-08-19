@@ -78,6 +78,12 @@
     "lerna": "^6.5.0",
     "mysql2": "^3.9.8",
     "pg": "^8.4.0",
+     main
+    "jest-image-snapshot": "^4.5.1",
+    "lerna": "^6.5.0",
+    "mysql2": "^2.1.0",
+    "pg": "^8.2.1",
+     snyk-fix-a877ff22e0015a1fd8f7de75b05f2fcf
     "pg-hstore": "^2.3.3",
     "preact-render-to-json": "^3.6.6",
     "prettier": "2.5.1",
